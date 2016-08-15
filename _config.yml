@@ -1,0 +1,14 @@
+layout_spectrum: 0.5980848954059184
+typography_spectrum: 0.6248583672568202
+color:
+  brandStrength: 0.16337871039286256
+  lightness: 0.838572422042489
+  saturation: 0.31801211438141763
+  rhythmicContrast: 0.9225650758016855
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: onoma
