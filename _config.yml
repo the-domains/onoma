@@ -1,4 +1,3 @@
-layout_spectrum: 0.5980848954059184
 typography_spectrum: 0.6248583672568202
 color:
   brandStrength: 0.16337871039286256
@@ -6,9 +5,11 @@ color:
   saturation: 0.31801211438141763
   rhythmicContrast: 0.9225650758016855
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.5980848954059184
 name: onoma
+description: design experience
